@@ -1,0 +1,6 @@
+{
+  "name": "سراج النحو - معلم النحو التفاعلي",
+  "description": "تطبيق تعليمي تفاعلي مبسط لتعليم النحو وإعراب الجمل لطلاب مرحلة التعليم المتوسط بأسلوب ممتع وتشجيعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
